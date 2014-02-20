@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='socket-source-address',
-    version='0.1',
+    version='0.1.1',
     author='Viktor Stískala',
     author_email='viktor@stiskala.cz',
     description='Monkey patch for socket.create_connection with explicit source address',
